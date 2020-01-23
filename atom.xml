@@ -5,9 +5,9 @@
   <subtitle>All models are wrong, but some are uesful</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/lizlive/lizlive.github.io.git/"/>
+  <link href="https://lizlive.github.io/"/>
   <updated>2020-01-23T07:20:13.459Z</updated>
-  <id>https://github.com/lizlive/lizlive.github.io.git/</id>
+  <id>https://lizlive.github.io/</id>
   
   <author>
     <name>Liz Sun</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/lizlive/lizlive.github.io.git/2020/01/23/hello-world/"/>
-    <id>https://github.com/lizlive/lizlive.github.io.git/2020/01/23/hello-world/</id>
+    <link href="https://lizlive.github.io/2020/01/23/hello-world/"/>
+    <id>https://lizlive.github.io/2020/01/23/hello-world/</id>
     <published>2020-01-23T07:20:13.459Z</published>
     <updated>2020-01-23T07:20:13.459Z</updated>
     
