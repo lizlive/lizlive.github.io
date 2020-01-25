@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lizlive.github.io/"/>
-  <updated>2020-01-23T07:20:13.459Z</updated>
+  <updated>2020-01-25T19:07:10.213Z</updated>
   <id>https://lizlive.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2019年终总结</title>
+    <link href="https://lizlive.github.io/2020/01/26/2019%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    <id>https://lizlive.github.io/2020/01/26/2019%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</id>
+    <published>2020-01-25T19:00:44.000Z</published>
+    <updated>2020-01-25T19:07:10.213Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2019年终终结"><a href="#2019年终终结" class="headerlink" title="2019年终终结"></a>2019年终终结</h2><p>2019就这样匆匆过去，我们于是又要跨入新的时代。说实话还是有些没有真实感，2012世界末日那天黑压压的天气和无聊的听力选修课如在昨日，但一转眼我已经在博士进度“1学期/n年”了。还是有些怀念那些穿校服路过公告栏习惯性的看红榜的日子的，不知道楼下那课铁树开花了没，烫了头的我怕是也不能穿着校服趁着放学混进去了。</p><p>上半年是本科的最后一学期，先在浙大做了大半个学期的毕设，算是对做学术的困难有了个初步的感受吧，现在回想起来怎么会连一个SVDD都做的这么困难，哈哈哈哈。然后除了毕业期间的吃吃喝喝，有件大事也就是和玲玲去台湾旅游，潜水，出海看海豚，和垦丁湿热夜晚的车祸，算是经历了旅行的大起大落。玲玲真的是个居家旅行必备伴侣，感觉后面我的情绪很不理想，但她细致的考虑和照顾让我算是比较满意的完成了这段比较独立的trip，不知道以后还有木有机会和她一起旅行。</p><p>下半年就是浙大的博士生涯啦。因为有毕设的经历和暑期提前到实验室了，新学期开始对我来说并没有什么“里程碑”式的感触，但种草了浙大校歌，“大不自多，海纳百川，树我邦国，天下来同”确实让我很有归属感和责任感，社会主义还等着我们接过建设的接力棒呢！然后关于课程学习，说实话除了数据挖掘这门课，我并没有觉得研究生课程里有很价值的，果然是不同学习的阶段应该会有不同的教学方式吧。学术方面的话感觉我东一榔头西一棒子做了很多东西，但也没有深入坚持完全搞明白的东西，截图一张年会上的工作总结吧。</p><p><img src="/.io//1579977082752.png" alt="1579977082752"></p><p>还有就是跟着古大神刷的LeetCode也在师兄的嘲讽中停了。吴恩达的机器学习也么有坚持看完，统计学习方法也停在EM了哈哈哈哈真实。</p><p>以后想做的东西还是很多，但我总是想的很全面，行动很迟缓，什么都虎头蛇尾，就像这篇年终总结。</p><p>所以放上to do list草草结束吧哈哈哈、</p><h4 id="to-do-list"><a href="#to-do-list" class="headerlink" title="to do list"></a>to do list</h4><ul><li>Latex 学习</li><li>统计学习方法和清华博士推公式配合食用（记得写代码）</li><li>陈哲那篇贝叶斯综述及相关</li><li>神经信号处理相关</li><li>时序信号处理相关</li><li>弱监督学习</li><li>cs231n</li><li>老哥的自动抢票</li><li>愿生活明朗，万物可爱</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;2019年终终结&quot;&gt;&lt;a href=&quot;#2019年终终结&quot; class=&quot;headerlink&quot; title=&quot;2019年终终结&quot;&gt;&lt;/a&gt;2019年终终结&lt;/h2&gt;&lt;p&gt;2019就这样匆匆过去，我们于是又要跨入新的时代。说实话还是有些没有真实感，2012世界末日
+      
+    
+    </summary>
+    
+    
+      <category term="JustWriting" scheme="https://lizlive.github.io/categories/JustWriting/"/>
+    
+    
+      <category term="年终" scheme="https://lizlive.github.io/tags/%E5%B9%B4%E7%BB%88/"/>
+    
+      <category term="半夜瞎写" scheme="https://lizlive.github.io/tags/%E5%8D%8A%E5%A4%9C%E7%9E%8E%E5%86%99/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
